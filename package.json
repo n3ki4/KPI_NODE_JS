@@ -1,0 +1,21 @@
+{
+  "name": "n3ki4_math",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n3ki4/KPI_NODE_JS.git"
+  },
+  "author": "n3ki4",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/n3ki4/KPI_NODE_JS/issues"
+  },
+  "homepage": "https://github.com/n3ki4/KPI_NODE_JS#readme"
+}
